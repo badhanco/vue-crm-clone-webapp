@@ -33,19 +33,21 @@ npm run build
 ### Bootstrap Vue
 ```sh
     bootstrap-vue: 2.23.1
-```sh
-
+```
+###HighCharts
 ```sh
 highscharts
-```sh
+```
 
+###Vue 2
 ```sh
   vue : 2.7.15
-```sh
-
+```
+###Vue Router
 ```sh
  vue-router: 3.6.5
-```sh
+```
+###Vite legacy
 ```sh
   @vitejs/plugin-legacy: 2.0.0
-```sh
+```
