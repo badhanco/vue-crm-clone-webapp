@@ -32,7 +32,7 @@ npm run build
 
 ### Bootstrap Vue
 ```sh
-    bootstrap-vue: 2.23.1
+bootstrap-vue: 2.23.1
 ```
 ### HighCharts
 ```sh
