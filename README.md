@@ -1,4 +1,4 @@
-# Vue Crm Clone WebApp
+# ./
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -26,28 +26,4 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Here are All the following dependencies
-
-### Bootstrap Vue
-```sh
-bootstrap-vue: 2.23.1
-```
-### HighCharts
-```sh
-highscharts
-```
-
-### Vue 2
-```sh
-  vue : 2.7.15
-```
-### Vue Router
-```sh
- vue-router: 3.6.5
-```
-### Vite legacy
-```sh
-  @vitejs/plugin-legacy: 2.0.0
 ```
